@@ -1,5 +1,5 @@
 body {
-    font-size: 6em;
+    font-size: 6rem;
     text-align: center;
 }
 
@@ -10,8 +10,8 @@ body {
 }
 
 .wrap {
-    margin-top: 20px;
-    padding: 80px 40px;
+    margin-top: 1.5rem;
+    padding: 4rem 2.5rem;
     background-color: #666;
     font-weight: bold;
     color: #fff;
