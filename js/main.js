@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let untyped = '';
 let typed = '';
 
@@ -94,3 +95,5 @@ start.addEventListener('click', () => {
 });
 
 untypedfield.textContent = 'スタートボタンで開始！';
+=======
+>>>>>>> dev
